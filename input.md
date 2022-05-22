@@ -2,14 +2,14 @@
   
 - lorem ipsum BOLD
 
-#I Don't know
+# I Don't know
 
-####If it works
+#### If it works
 
 But i hope BOLD bold BOLd
 
-###it will
+### it will
 
-##HOWEVER
-######I Don't know
-###it will
+## HOWEVER
+###### I Don't know
+### it will
